@@ -89,19 +89,7 @@ Interactive navigation and filter buttons were incorporated to make the report f
 The project follows a typical business intelligence workflow:
 
 ```text
-Raw Data > Excel Data Preparation
-   ↓
-Data Transformation & Validation
-   ↓
-Power BI Data Model
-   ↓
-DAX Measures & KPIs
-   ↓
-Interactive Visualizations
-   ↓
-Executive Reporting
-   ↓
-Commercial Decision Support
+Raw Data > Excel Data Preparation > Data Transformation & Validation > Power BI Data Model > DAX Measures & KPIs > Interactive Visualizations > Executive Reporting > Commercial Decision Support
 ```
 
 The analysis focuses on connecting **customer and commercial performance to financial outcomes**, rather than simply presenting descriptive statistics.
