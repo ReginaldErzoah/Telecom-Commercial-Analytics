@@ -94,7 +94,7 @@ Raw Data > Excel Data Preparation > Data Transformation & Validation > Power BI 
 
 The analysis focuses on connecting **customer and commercial performance to financial outcomes**, rather than simply presenting descriptive statistics.
 
-
+---
 
 ## Key Skills Demonstrated
 
@@ -114,7 +114,7 @@ The analysis focuses on connecting **customer and commercial performance to fina
 * Data Storytelling
 * Business Performance Monitoring
 
-
+---
 
 ## Project Outcome
 
@@ -122,7 +122,7 @@ The project resulted in a **3-page interactive Power BI business intelligence re
 
 It demonstrates the ability to move from **raw business data → analytical model → KPI calculations → interactive dashboard → decision-support reporting**, while combining technical analytics with business-oriented visualization and user experience design.
 
-
+---
 
 ## Project Relevance
 
